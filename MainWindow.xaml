@@ -40,8 +40,8 @@
         <TextBlock Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Row="3" Grid.Column="3" HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
-        
-        <TextBox Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" Text="0" VerticalAlignment="Center" FontSize="36" Name="score" Foreground="Black" />
+
+        <TextBox Grid.Row="4" Grid.Column="2" HorizontalAlignment="Center" Text="" VerticalAlignment="Center" FontSize="36" Name="timer_textbox" Foreground="Black" BorderThickness="0,0,0,0" />
     </Grid>
 
 
